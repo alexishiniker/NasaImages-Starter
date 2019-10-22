@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RecycledNasaImages</string>
+    <string name="api_key"></string>
+    <string name="url_base">api.nasa.gov</string>
+    <string name="date_base">2018-9-</string>
+    <string-array name="url_paths">
+        <item>planetary</item>
+        <item>apod</item>
+    </string-array>
+</resources>
